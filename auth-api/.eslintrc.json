@@ -13,10 +13,14 @@
     "globals": {
         "describe": true,
         "it": true,
-        "expect": true
+        "expect": true,
+        "afterEach": true,
+        "afterAll": true,
+        "jest": true
     },
     "rules": {
         "no-underscore-dangle":"off",
-        "class-methods-use-this":"off"
+        "class-methods-use-this":"off",
+        "linebreak-style": "off"
     }
 }

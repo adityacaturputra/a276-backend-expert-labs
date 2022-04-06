@@ -1,6 +1,6 @@
 {
     "user": "developer",
-    "password": "test1412",
+    "password": "supersecretpassword",
     "host": "localhost",
     "port": 5432,
     "database": "dicoding_authapi_test"
