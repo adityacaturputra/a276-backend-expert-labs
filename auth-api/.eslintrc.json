@@ -11,8 +11,12 @@
         "ecmaVersion": "latest"
     },
     "globals": {
-        "modules": true
+        "describe": true,
+        "it": true,
+        "expect": true
     },
     "rules": {
+        "no-underscore-dangle":"off",
+        "class-methods-use-this":"off"
     }
 }
